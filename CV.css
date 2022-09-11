@@ -1,0 +1,34 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+}
+
+.intro-photo{
+    height: 250px;
+    margin-bottom: 70px;
+}
+
+.photo{
+    width: 100px;
+    height: 100px;
+}
+
+.sectiongauche{
+    float: left;
+}
+.sectiondroite{
+    margin-left: 350px;
+}
+
+.section{
+    margin-bottom: 70px;
+}
+
+.sec-gauche{
+    float: left;
+}
+
+.sec-droite{
+    margin-left: 150px;
+}
