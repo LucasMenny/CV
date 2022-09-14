@@ -4,14 +4,10 @@
     font-size: 16px;
 }
 
-.intro-photo{
-    height: 250px;
-    margin-bottom: 70px;
-}
 
 .photo{
-    width: 100px;
-    height: 100px;
+    width: 20%;
+    margin-top: 50px;
 }
 
 .sectiongauche{
@@ -23,12 +19,43 @@
 
 .section{
     margin-bottom: 70px;
+    text-align: justify;
 }
 
 .sec-gauche{
     float: left;
+    font-weight: bold;
 }
 
 .sec-droite{
     margin-left: 150px;
+    margin-top: 35px;
 }
+
+h2{
+    border-bottom: 3px solid;
+}
+
+.date{
+    font-style: italic;
+}
+
+#forma-gauche p{
+    margin-bottom: 35px;
+}
+
+.titre{
+    font-weight: bold;
+}
+.titre1{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(34, 96, 212);
+}
+
+.rectangle {
+    margin-left: 300px;
+    width  : 45px;
+    height : 500px;
+    background : blue;
+  }
